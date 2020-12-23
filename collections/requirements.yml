@@ -1,0 +1,4 @@
+collections:
+  - name: fortinet.fortios
+    version: 1.0.11
+    source: https://galaxy.ansible.com/
