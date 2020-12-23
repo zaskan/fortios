@@ -1,0 +1,1 @@
+leaf01 ansible_host=ec2-34-245-16-85.eu-west-1.compute.amazonaws.com ansible_network_os=fortinet.fortios.fortios ansible_user=admin ansible_password="1q2w3eZxc,.-" ansible_become=yes ansible_become_method=enable
